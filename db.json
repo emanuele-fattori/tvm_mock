@@ -1,11 +1,13 @@
 {
   "CheckStatusService": [
-    "barcodeReader": "OnLine",
-    "cashIn": "OnLine",
-    "cashOut": "OnLine",
-    "panelPos": "OnLine",
-    "receiptPrinter": "OnLine",
-    "smartReader": "OnLine",
-    "ticketPrinter": "OnLine"
+    {
+      "barcodeReader": "OnLine",
+      "cashIn": "OnLine",
+      "cashOut": "OnLine",
+      "panelPos": "OnLine",
+      "receiptPrinter": "OnLine",
+      "smartReader": "OnLine",
+      "ticketPrinter": "OnLine"
+    }
   ]
 }
